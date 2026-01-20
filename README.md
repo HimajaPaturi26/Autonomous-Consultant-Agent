@@ -120,3 +120,14 @@ Add CLI interface
 Add web interface
 
 Add evaluation layer
+
+
+Clone the repository:
+
+git clone https://github.com/<your-username>/Autonomous-Consultant-Agent.git
+cd Autonomous-Consultant-Agent
+
+
+Run the agent:
+
+python agent.py
